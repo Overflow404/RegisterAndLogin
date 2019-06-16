@@ -16,6 +16,8 @@ Tests are written in JUnit using an H2 in-memory database to perform specific te
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Junit 5](https://junit.org/junit5/)  -  Testing
 * [Wildfly](https://wildfly.org/)  -  Application server
+* [MySQL](https://www.mysql.com/it/)  -  Database
+* [H2](https://www.h2database.com/html/main.html/)  -  In memory testing database
 * [JPA](https://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html)  -  JPA
 
 ## Authors
